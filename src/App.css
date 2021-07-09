@@ -1,0 +1,26 @@
+.container {
+  margin: 20px;
+}
+
+.label {
+  margin: 5px;
+}
+
+.input {
+  margin: 10px;
+}
+
+.submit {
+  margin: 5px;
+}
+
+.validate-btn {
+  margin-top: 5px;
+}
+
+.addressPane {
+  display: none;
+  height: 80px;
+  overflow-y: overlay;
+  margin: 10px;
+}
